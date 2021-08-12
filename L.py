@@ -190,7 +190,7 @@ qti.open ('https://www.youtube.com/watch?v=48rz8udZBmQ')
 qti.open ('https://www.youtube.com/watch?v=48rz8udZBmQ')
 qti.open ('https://www.youtube.com/watch?v=48rz8udZBmQ')
 #Spamea el code cambiando el nombre de los archivos y las palabras!
-time.sleep(20)
+time.sleep(10)
 
 OpSy = platform.system() 
 
