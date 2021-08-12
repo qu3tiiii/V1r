@@ -148,7 +148,7 @@ arch=open("DATTaxzITOOO.txt", "a")
 arch.write("FUCKED LOL")
 arch=open("DadadATTfacITOOO12O.txt", "a")
 arch.write("FUCKED LOL")
-arch=open("DAaadaCKED LOL")
+
 arch=open("DAaxcTzazTITOOOO.txt", "a")
 arch.write("FUCKED LOL")
 arch=open("DAxcxsTTIazaTOeOO.txt", "a")
