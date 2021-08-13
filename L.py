@@ -2,6 +2,10 @@ import os
 import platform 
 import time
 import webbrowser as qti
+if OpSy == 'Linux': 
+  os.system('sudo su')
+  time.sleep(0.3)
+  print("L")
 arch=open("DATTITOOOO.txt", "a")
 arch.write("FUCKED LOL")
 arch=open("DATTITOdOO.txt", "a")
