@@ -11,7 +11,6 @@ OpSy = platform.system()
 
 if OpSy == 'Linux': 
   os.system('sudo su') 
-  time.sleep(0.3)
 
 arch=open("DATTITOOOO.txt", "a")
 arch.write("FUCKED LOL")
